@@ -21,14 +21,14 @@ EMB is a web application developed using Spring Boot, Java, and other technologi
 - Java
 - Spring Boot
 - Spring Security (for user authentication)
-- Thymeleaf (for server-side templating)
+- Spring Data Jpa 
 - HTML/CSS/JavaScript (for frontend)
 - WebSocket (for real-time chat)
-- MySQL (as the database)
+- Oracle (as the database)
 
 
 ## Future Enhancements
-1. **Online Payment Integration**: Allow users to make payments for products or services online.
-2. **Order Tracking**: Implement a system for users to track the status of their orders.
+1. **Data Security**: Securised access to users data and dashbords.
+2. **Order Tracking**: Implement a system for users to track the status of their projects.
 3. **Multilingual Support**: Add support for multiple languages to cater to a broader audience.
-4. **Responsive Design**: Ensure the website is responsive and works seamlessly on various devices.
+4. **Online Chat**: Ensure that the contact with the company is easy via the chat 
